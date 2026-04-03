@@ -1,4 +1,4 @@
-# House-Price-Prediction# House Price Prediction using Linear Regression
+# House Price Prediction using Linear Regression
 
 ## Description
 This project predicts house prices using:
